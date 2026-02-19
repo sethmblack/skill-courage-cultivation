@@ -3,8 +3,9 @@ name: courage-cultivation
 description: Build courage as the master virtue that enables all other values to be practiced consistently. Transform fear from barrier to signal.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3700
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
 - courage-cultivation
